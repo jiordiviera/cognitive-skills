@@ -43,6 +43,14 @@ Example:
 cp -r skills/intellectual-sparring .ai/skills/
 ```
 
+### NPX
+
+Install the `intellectual-sparring` skill directly:
+
+```bash
+npx skills add jiordiviera/cognitive-skills --skill intellectual-sparring
+```
+
 ## Philosophy
 
 These skills are built to shape behavior, not just provide information.

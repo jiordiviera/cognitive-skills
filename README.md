@@ -30,7 +30,7 @@ skills/
 Install the repository as a skill source in your Laravel project:
 
 ```bash
-php artisan boost:add-skill your-vendor/cognitive-skills
+php artisan boost:add-skill jiordiviera/cognitive-skills
 ```
 
 ### Manual usage
